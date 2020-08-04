@@ -2,6 +2,7 @@
 
 You are provided with a pre-generated graph consisting of 500 rooms. You are responsible for filling `traversal_path` with directions that, when walked in order, will visit every room on the map at least once.
 
+
 Open `adv.py`. There are four parts to the provided code:
 
 * World generation code. Do not modify this!
@@ -9,6 +10,11 @@ Open `adv.py`. There are four parts to the provided code:
 * Test code. Run the tests by typing `python3 adv.py` in your terminal.
 * REPL code. You can uncomment this and run `python3 adv.py` to walk around the map.
 
+## while/if you walking in the door
+  ## traverse though path
+  ##  visit every room on the map once.
+
+## 4 parts
 
 You may find the commands `player.current_room.id`, `player.current_room.get_exits()` and `player.travel(direction)` useful.
 
